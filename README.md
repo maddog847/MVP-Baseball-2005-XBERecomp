@@ -15,7 +15,7 @@ Further development and ongoing support are not currently planned. Community for
 This project does not include game files. You must provide files from your own legally acquired original Xbox copy of MVP Baseball 2005.
 
 1. Download the playable package from [Releases](https://github.com/maddog847/MVP-Baseball-2005-XBERecomp/releases).
-2. Extract the entire ZIP to a writable folder.
+2. Extract the entire archive.
 3. Place your extracted Xbox game files in the `assets` folder, with `default.xbe` directly inside it alongside the remaining game files and folders.
 4. Run `MVP05.exe`.
 
